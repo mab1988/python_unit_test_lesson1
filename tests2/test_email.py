@@ -10,4 +10,4 @@ class PlusFunctionTestCase(TestCase):
         self.assertTrue(is_correct_email("mirmailru"))
 
     def test1_email3_only_Numbers(self):
-        self.assertTrue(is_correct_email("m097766"))
+        self.assegitrtTrue(is_correct_email("m097766"))
